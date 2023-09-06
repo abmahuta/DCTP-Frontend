@@ -1,1 +1,1 @@
-My first DCTP frontend assignment, a students management table created with pure html and css.
+A repository for DevCareer Tech Program frontend software engineering course.
